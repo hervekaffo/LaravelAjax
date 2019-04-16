@@ -1,0 +1,1 @@
+<button id="{{$id}}"  class="btn btn-primary"><i class='fas fa-pencil-alt' style='font-size:12px'></i></button>
