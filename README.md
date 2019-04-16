@@ -7,6 +7,6 @@ Run the Project:
 2. Run the file named db if you want some data or use seed to generate data
 3. rename env.example into your .env -> put your server info and smtp info if you have some
 4. in you working directory, run the following commands 
-  -php artisan key:generate
+  -php artisan key:generate and after
   -php artisan serve
 5. put the URL generated into you browser
